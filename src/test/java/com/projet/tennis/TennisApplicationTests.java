@@ -1,4 +1,4 @@
-package com.dyma.tennis;
+package com.projet.tennis;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
